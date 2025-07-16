@@ -113,4 +113,7 @@
 
 <p align="center" style="color:gray">
   Made with 🪴 by Somya Shrimali — 2025
-</p>
+  <p align="center" style="color:gray">
+  ✨ Open for contributions (a.k.a. willing to fix your bugs if your README is cute enough)
+
+</p></p>
