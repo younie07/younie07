@@ -99,13 +99,6 @@
 
 ---
 <br/>
-<h3 align="center" style="color:#444;">My GitHub Contribution Calendar</h3>
-<p align="center">
-  <a href="https://github.com/somya2114">
-    <img src="https://ghchart.rshah.org/CBE4DE/younie07" alt="younie07's GitHub chart" />
-  </a>
-</p>
-
 
 
 
