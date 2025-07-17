@@ -100,13 +100,28 @@
 ---
 <br/>
 
+## 📊 GitHub Stats:
+
+<div align="center">
+
+  <!-- Profile Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=younie07&theme=github" alt="GitHub Summary Card" />
+
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=younie07&show_icons=true&count_private=true&hide_title=false&hide_rank=false&theme=default&title_color=F4B5AC&icon_color=F4B5AC&text_color=444444&bg_color=FFFFFF" alt="GitHub Stats" />
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=younie07&theme=default&hide_border=false&ring=F4B5AC&fire=F4B5AC&currStreakLabel=F4B5AC&sideLabels=666666&dates=999999" alt="GitHub Streak" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younie07&layout=compact&theme=default&title_color=F4B5AC&text_color=444444&bg_color=FFFFFF" alt="Most Used Languages" />
+
+</div>
 
 
 
 
-<p align="center" style="color:gray">
-  Made with 🪴 by Somya Shrimali — 2025
-  <p align="center" style="color:gray">
-  ✨ Open for contributions (a.k.a. willing to fix your bugs if your README is cute enough)
-
-</p></p>
+<p align="center" style="color:#999;">
+  Made with 🪴 by Somya Shrimali — 2025 <br/>
+  ✨ Open for collabs, bugs, and vibes 💌
+</p>
