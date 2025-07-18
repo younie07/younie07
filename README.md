@@ -100,28 +100,52 @@
 ---
 <br/>
 
-## 📊 GitHub Stats:
+<!-- 📊 GitHub Stats (Bento Grid Style) -->
+<h2 align="center" style="color:#444;">📊 GitHub Stats</h2>
 
-<div align="center">
+<!-- Bento Grid Table -->
+<table align="center" width="100%" style="table-layout:fixed; border-spacing:20px; font-family:Segoe UI, sans-serif;">
 
-  <!-- Profile Summary Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=younie07&theme=github" alt="GitHub Summary Card" />
+  <!-- Row 1: Profile Summary -->
+  <tr>
+    <td colspan="2" style="background:#ffffff; border: 1px solid #f4b5ac; border-radius: 15px; padding: 20px;" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=younie07&theme=github" alt="GitHub Summary Card" width="100%">
+    </td>
+  </tr>
 
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=younie07&show_icons=true&count_private=true&hide_title=false&hide_rank=false&theme=default&title_color=F4B5AC&icon_color=F4B5AC&text_color=444444&bg_color=FFFFFF" alt="GitHub Stats" />
+  <!-- Row 2: Stats + Streak -->
+  <tr>
+    <td style="background:#ffffff; border: 1px solid #f4b5ac; border-radius: 15px; padding: 20px;" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=younie07&show_icons=true&count_private=true&hide_title=false&hide_rank=false&theme=default&title_color=F4B5AC&icon_color=F4B5AC&text_color=444444&bg_color=FFFFFF" alt="GitHub Stats" width="100%">
+    </td>
+    <td style="background:#ffffff; border: 1px solid #f4b5ac; border-radius: 15px; padding: 20px;" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=younie07&theme=default&hide_border=false&ring=F4B5AC&fire=F4B5AC&currStreakLabel=F4B5AC&sideLabels=666666&dates=999999" alt="GitHub Streak" width="100%">
+    </td>
+  </tr>
 
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=younie07&theme=default&hide_border=false&ring=F4B5AC&fire=F4B5AC&currStreakLabel=F4B5AC&sideLabels=666666&dates=999999" alt="GitHub Streak" />
+  <!-- Row 3: Languages + Contribution side-by-side -->
+  <tr>
+    <!-- Most Used Languages -->
+    <td style="background:#ffffff; border: 1px solid #f4b5ac; border-radius: 15px; padding: 20px;" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younie07&layout=compact&theme=default&title_color=F4B5AC&text_color=444444&bg_color=FFFFFF" alt="Most Used Languages" width="100%">
+    </td>
+ <!-- Open Source Contributions -->
+    <td style="background:#fff0f0; border: 1px solid #f4b5ac; border-radius: 15px; padding: 20px;" align="center">
+      <h3 style="color:#444;">📦 Open Source Contributions</h3>
+      <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="60" /><br/><br/>
+      <a href="https://github.com/thedaviddias/Front-End-Checklist/pull/1031" target="_blank" style="text-decoration: none; color: #444; font-weight: bold; font-size: 16px;">
+        Front-End Checklist – Accessibility & UX Enhancements
+      </a>
+      <p style="color:#777; font-size: 14px; margin-top: 10px;">
+        ✨ PR with custom UX rules for mental health & visual accessibility
+      </p>
+    </td>
+  </tr>
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younie07&layout=compact&theme=default&title_color=F4B5AC&text_color=444444&bg_color=FFFFFF" alt="Most Used Languages" />
+</table>
 
-</div>
-
-
-
-
-<p align="center" style="color:#999;">
+<!-- Footer -->
+<p align="center" style="color:#999; font-size: 14px; margin-top: 30px;">
   Made with 🪴 by Somya Shrimali — 2025 <br/>
   ✨ Open for collabs, bugs, and vibes 💌
 </p>
